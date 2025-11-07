@@ -1,0 +1,1 @@
+This notebook demonstrates a complete machine learning pipeline for predicting product-level sales across individual stores and generating actionable insights to help the sales team understand which product and store features drive performance. The model implemented includes Linear Regression.
